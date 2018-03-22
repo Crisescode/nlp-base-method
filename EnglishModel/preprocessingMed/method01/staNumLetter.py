@@ -1,7 +1,6 @@
 import re
 from collections import Counter
 
-
 text = "hello,Crise! How are you? It's nice day I'm very happy to meet you!"
 
 text = text.lower()

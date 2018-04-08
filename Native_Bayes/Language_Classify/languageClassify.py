@@ -42,3 +42,6 @@ language_classify = LauguageClassify()
 language_classify.fit(x_train, y_train)
 print(language_classify.predict("This is an English snetence!"))
 print(language_classify.score(x_test, y_test))
+
+print(language_classify.predict("Ciao, Crise! Piacere di conoscerti!"))
+print(language_classify.score(x_test, y_test))

@@ -13,10 +13,12 @@ print(vecList4)
 trainMat = []
 for postinDoc in listOPosts:
     trainMat.append(bayes.setOfWords2Vec(myVocabList,postinDoc))
-#print(trainMat)
-print(sum(listClasses))
+
+print(trainMat)
+print(len(trainMat))
+print(listClasses)
 
 p0V,p1V,pAb = bayes.trainNB0(trainMat,listClasses)
-print(pAb)
+# print(pAb)
 print(p0V)
-print(p1V)
+# print(p1V)

@@ -32,6 +32,7 @@ def setOfWords2Vec(vocabList, inputSet):
 
 def trainNB0(trainMatrix, trainCategory):
     numTrainDocs = len(trainMatrix)
+    print(numTrainDocs)
     numWords = len(trainMatrix[0])
     pAbusive = sum(trainCategory)/float(numTrainDocs)
     p0Num = zeros(numWords) ; p1Num = zeros(numWords)

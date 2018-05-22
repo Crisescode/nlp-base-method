@@ -8,3 +8,4 @@ result = a + b
 sess = tf.Session()
 print(sess.run(result))
 print(a.graph is tf.get_default_graph())
+print(result.get_shape)

@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3403456d-31a5-4520-81c9-0c6396e07ffd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/tensorflow_03_by/tensorflow_03_forward.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensorflow_03_by/tensorflow_03by.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/NLP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NLP.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TensorFlow_Train/tensorflow_flow.py" beforeDir="false" afterPath="$PROJECT_DIR$/TensorFlow_Train/tensorflow_flow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow_03_by/tensorflow_03by.py" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow_03_by/tensorflow_03by.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,17 +18,17 @@
       <file leaf-file-name="tensorflow_flow.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TensorFlow_Train/tensorflow_flow.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="110">
+              <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tensorflow_03by.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="tensorflow_03by.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tensorflow_03_by/tensorflow_03by.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="418">
+              <caret line="22" column="55" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="55" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -38,10 +36,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tensorflow_03_forward.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tensorflow_03_forward.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tensorflow_03_by/tensorflow_03_forward.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
+            <state relative-caret-position="263">
               <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
             </state>
           </provider>
@@ -89,9 +87,9 @@
         <option value="$PROJECT_DIR$/ChatBot/segment/segment_nlpir.py" />
         <option value="$PROJECT_DIR$/TensorFlow_Train/tensorflow_02.py" />
         <option value="$PROJECT_DIR$/TensorFlow_Train/tensorflow_01/tensorflow_01.py" />
+        <option value="$PROJECT_DIR$/tensorflow_03_by/tensorflow_03_forward.py" />
         <option value="$PROJECT_DIR$/TensorFlow_Train/tensorflow_flow.py" />
         <option value="$PROJECT_DIR$/tensorflow_03_by/tensorflow_03by.py" />
-        <option value="$PROJECT_DIR$/tensorflow_03_by/tensorflow_03_forward.py" />
       </list>
     </option>
   </component>
@@ -169,43 +167,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tensorflow_03_forward">
-    <configuration name="jieba_seg_userdict" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="NLP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NLP_Learn/Segment" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NLP_Learn/Segment/jieba_seg_userdict.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="segment_nlpir" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="NLP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ChatBot/segment" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ChatBot/segment/segment_nlpir.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.tensorflow_03by">
     <configuration name="tensorflow_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="NLP" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -260,20 +222,56 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="tensorflow_03by" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NLP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tensorflow_03_by" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tensorflow_03_by/tensorflow_03by.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="tensorflow_flow" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NLP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TensorFlow_Train" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TensorFlow_Train/tensorflow_flow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.jieba_seg_userdict" />
-      <item itemvalue="Python.segment_nlpir" />
       <item itemvalue="Python.tensorflow_01" />
       <item itemvalue="Python.tensorflow_02" />
       <item itemvalue="Python.tensorflow_03_forward" />
+      <item itemvalue="Python.tensorflow_03by" />
+      <item itemvalue="Python.tensorflow_flow" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tensorflow_03by" />
+        <item itemvalue="Python.tensorflow_flow" />
         <item itemvalue="Python.tensorflow_03_forward" />
         <item itemvalue="Python.tensorflow_01" />
         <item itemvalue="Python.tensorflow_02" />
-        <item itemvalue="Python.segment_nlpir" />
-        <item itemvalue="Python.jieba_seg_userdict" />
       </list>
     </recent_temporary>
   </component>
@@ -291,7 +289,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1301" height="772" extended-state="7" />
+    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16448885" />
@@ -576,25 +574,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TensorFlow_Train/tensorflow_flow.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow_03_by/tensorflow_03by.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="110">
+          <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tensorflow_03_by/tensorflow_03_forward.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
+        <state relative-caret-position="263">
           <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow_03_by/tensorflow_03by.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="55" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
